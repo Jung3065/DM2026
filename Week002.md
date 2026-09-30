@@ -1,34 +1,28 @@
-Python 1
+## Python 1
 
-## 001calendar
-<img width="612" height="694" alt="image" src="https://github.com/user-attachments/assets/031de7e9-1356-4703-8e04-e6ba7b42db58" />
+# 01.Calendar
+<img width="550" height="636" alt="image" src="https://github.com/user-attachments/assets/978fd9c8-45ba-4b7c-abec-ae2973b3aea0" />
 
-## 01繪製正玄波
-<img width="709" height="562" alt="image" src="https://github.com/user-attachments/assets/b5da648c-d2b4-4495-9349-df2fba9e67e1" />
+# 02.P1103
+<img width="261" height="249" alt="image" src="https://github.com/user-attachments/assets/8674f383-3d00-412a-9414-1c0edbc4f8de" />
 
-## 02同一坐標軸繪製多條曲線與圖例
-<img width="812" height="676" alt="image" src="https://github.com/user-attachments/assets/67e9c8b8-2f77-4e3f-8ac9-ed14a50e6281" />
+# 03.P1105 基本運算展示
+<img width="210" height="85" alt="image" src="https://github.com/user-attachments/assets/708c934b-e963-47f0-b3f0-59b06edf85fd" />
 
-## 03上下 2x1 子圖展示
-<img width="438" height="324" alt="image" src="https://github.com/user-attachments/assets/7d80422d-87fd-4ee9-9690-707753f20e28" />
-<img width="756" height="530" alt="image" src="https://github.com/user-attachments/assets/fa5460fc-fc2e-4e5c-94ed-4ca9b55cbdb9" />
+# 04.P1113 常用輸入輸出
+<img width="488" height="118" alt="image" src="https://github.com/user-attachments/assets/245887e9-03be-4152-8769-87650418d2cc" />
 
-## 04繪製正圓形並輸出儲存圖檔
-<img width="546" height="291" alt="image" src="https://github.com/user-attachments/assets/a46fd453-9d8b-4c09-b806-31b65cc7318e" />
-<img width="495" height="423" alt="image" src="https://github.com/user-attachments/assets/598eea68-6a56-4cbf-aead-6c0933e6cb43" />
+# 05.實作 1135: 修正縮排 Bug 與雙向 if 實作
+<img width="605" height="355" alt="image" src="https://github.com/user-attachments/assets/6231124a-7567-4bf9-b305-3124278701aa" />
 
-## 05實作 1185 (完整解答)
-<img width="409" height="531" alt="image" src="https://github.com/user-attachments/assets/0b4c4b6a-9cd1-4a55-818c-a49b4322464a" />
-<img width="808" height="631" alt="image" src="https://github.com/user-attachments/assets/bda3a5ae-1456-4b8b-bdc9-cee7d74c53b9" />
+# 06.P1114a 多向條件判斷 (if - elif - else)
+<img width="418" height="292" alt="image" src="https://github.com/user-attachments/assets/15e536e2-3e79-4213-be48-457ec23c8518" />
 
-## 06類別宣告與實體方法
-<img width="521" height="379" alt="image" src="https://github.com/user-attachments/assets/9bc7ef13-5b26-49d3-ab9a-053d4f4565fa" />
+# 07.P1142 類別宣告與實體方法
+<img width="486" height="341" alt="image" src="https://github.com/user-attachments/assets/29507ab9-5656-4b50-a8fd-31be89723fd5" />
 
-## 07常用輸入輸出
-<img width="525" height="137" alt="image" src="https://github.com/user-attachments/assets/60c7121d-61d8-47ca-853a-48a6206102b6" />
+# 08.P1118
+<img width="288" height="207" alt="image" src="https://github.com/user-attachments/assets/3996bc53-b7bf-4051-b469-3fdda6b1befa" />
 
-## 08基本運算展示
-<img width="401" height="458" alt="image" src="https://github.com/user-attachments/assets/237f519e-6f95-44a3-b01e-007066c2b673" />
-
-## 09查詢 Python 35 個保留字
-<img width="1745" height="141" alt="image" src="https://github.com/user-attachments/assets/8a83e712-5d29-4882-a31f-469be0f2e9dd" />
+# 09.實作 1160: 字串清洗實戰
+<img width="634" height="337" alt="image" src="https://github.com/user-attachments/assets/fdf81efd-8bfa-4cf4-936d-97f6945db7ea" />
