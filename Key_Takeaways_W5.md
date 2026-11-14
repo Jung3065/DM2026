@@ -1,4 +1,4 @@
-# The Matrix Awakening (資料矩陣的覺醒)
+# W5-The Matrix Awakening (資料矩陣的覺醒)
 
 ## The Empty Vector/建立一維離散容器
 <img width="472" height="312" alt="image" src="https://github.com/user-attachments/assets/224d7435-28fd-4957-9683-971df8d0ffc4" />
@@ -59,3 +59,39 @@
 
 ## Validating Dimensions/檢查矩陣是否為完美的正方形
 <img width="581" height="265" alt="image" src="https://github.com/user-attachments/assets/2210770e-ffcd-42b3-8257-2eae82e35023" />
+
+# 核心重點
+主要學習如何使用 Python 的 List 建立一維及二維資料結構。
+
+## 核心觀念
+| 觀念 | 意義 | Python |
+|------|------|------|
+| 1D List | 一維資料 | [] |
+| 2D Matrix | 二維資料 | [[...], [...]] |
+| Index | 索引位置 | [0] |
+| Row | 列、橫向 | len(matrix) |
+| Column | 欄、直向 | len(matrix[0]) |
+| Nested Loop | 巢狀迴圈 | for 裡面再放 for |
+| Enumerate | 同時取得索引與內容 | enumerate() |
+| List Comprehension | 快速建立串列 | [...] for ... |
+
+# 教學思路
+情境:假設今天要安排教室座位
+
+| 教學步驟 | 要講的觀念 | 生活化說明 |
+|------|------|------|
+| 建立座位表 | 2D Matrix | 把座位排成一個表格 |
+| 找到座位 | Index | 每個座位都有自己的位置 |
+| 更改座位 | 修改元素 | 有人入座就更新狀態 |
+| 巡視座位 | Nested Loop | 一排一排檢查每個位置 |
+| 紀錄狀態 | Boolean Matrix | 記錄座位是否有人 |
+
+# 降維說明法
+想像我們現在在一間教室，裡面有三排座位，每排有三個位置。我們用 Python 製作一張電子座位表。
+每一排是一個 List，三排組合起來就是一個 Matrix。
+- 我要找第二排第三個座位，就要使用座標。
+- 有人坐下去了，我們就把那個位置的數字改掉。
+- 老師想知道整間教室有多少人，就可以利用兩層迴圈，一排一排、一個一個座位檢查。
+1. List 就像一排置物櫃。
+2. Matrix 就像很多排置物櫃組合起來。
+3. Nested Loop 就像逐排巡視每一個置物櫃。
